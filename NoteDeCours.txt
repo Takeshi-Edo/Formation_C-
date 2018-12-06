@@ -1,0 +1,41 @@
+Note de cours git
+
+	git clone pour cloner le repo
+	git checkout -b branch_name pour créer une branche
+	git checkout branch_name pour changer de branche
+	git status pour vérifier la branche
+	git add --all pour ajouter tous les fichiers
+	git commit -am "message" ajoute et créer un commit avec un message associé
+	git config --global user.email "yanebout@gmail.com"
+	git config --global user.name "Takeshi-Edo"
+	git push origin day2_exo_Yann_Nebout pour mettre les données dans le repo
+
+Note de cours formation C++
+
+	Polymorphisme paramétrique : créer plusieurs fonctions ayant le même nom mais pas les même paramètres. Le programme sera quelle fonction prendre en fct des paramètres mis lors de l'appel.
+
+	pour les exos :  g++ Parts.cpp WarBot.cpp main.cpp -W -Wall -Wextra -Wfatal-errors
+	
+	Tableaux : On a un nombre n connus d'éléments qui se suivent en mémoire. accès rapide au éléments.
+	
+	Listes Chainées : lien de différents élements en mémoire pour lesquels nous ne savons pas ou ils se trouvent en mémoire. chaque élément contient un pointeur sur le suivant et un pointeur sur le suivant. C'est bien quand on ne connait pas le nombre exact d'éléments ou que le nombre varie rapidement.
+
+Référence
+cplusplusreference.com
+learnxinyminutes.com
+
+Cours 1 et exos :
+https://hackmd.io/n23CPve_RoiBcQSPJTktXA
+https://hackmd.io/I3BH1gZDRw6ExK7o-QzTAQ
+
+Cours 2 et exos :
+https://hackmd.io/cahIzUXKRqWrCBd66kcSSA
+https://hackmd.io/lO3fdzFNS3KmjRlBi3HtyQ
+
+Cours 3 et exos :
+https://hackmd.io/i8oTWJjQSZCV8nZxOoNjQw
+https://hackmd.io/cC2AjQgFQ3WrYnF_cem2dw
+
+Cours 4 et exos :
+
+cours 5 et exos :
